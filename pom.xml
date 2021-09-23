@@ -150,6 +150,7 @@
 					<wtpversion>2.0</wtpversion>
 					<wtpContextName>maven-web-application</wtpContextName>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
+					...
 				</configuration>
 			</plugin>
 			
