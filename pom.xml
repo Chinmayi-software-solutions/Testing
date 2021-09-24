@@ -95,6 +95,14 @@
 	</dependencies>
 	
 	<distributionManagement>
+    <repository>
+        <repositoryId>nexus-releases</repositoryId>
+        <name>releases</name>
+        <url>http://myNexus/more/stuff</url>
+    </repository>
+</distributionManagement>
+	
+	<distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
