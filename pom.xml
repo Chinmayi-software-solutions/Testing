@@ -102,13 +102,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <Id>nexus</Id> 
+	      <id>nexus</id> 
 	      <name>chenmayi Test Releases Nexus Repository</name>
 	      <url>http://3.109.4.6:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <Id>nexus</Id> 
+	      <id>nexus</id> 
 	      <name>chenmayi Test Snapshot Nexus Repository </name>
 	      <url>http://3.109.4.6:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
