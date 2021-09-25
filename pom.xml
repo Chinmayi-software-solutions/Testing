@@ -108,7 +108,7 @@
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <rId>nexus</Id> 
+	      <Id>nexus</Id> 
 	      <name>chenmayi Test Snapshot Nexus Repository </name>
 	      <url>http://3.109.4.6:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
